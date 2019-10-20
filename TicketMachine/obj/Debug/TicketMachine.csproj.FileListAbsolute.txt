@@ -1,0 +1,6 @@
+C:\Users\HeitorSalatiel\source\repos\TicketMachine\TicketMachine\bin\Debug\TicketMachine.exe.config
+C:\Users\HeitorSalatiel\source\repos\TicketMachine\TicketMachine\bin\Debug\TicketMachine.exe
+C:\Users\HeitorSalatiel\source\repos\TicketMachine\TicketMachine\bin\Debug\TicketMachine.pdb
+C:\Users\HeitorSalatiel\source\repos\TicketMachine\TicketMachine\obj\Debug\TicketMachine.csprojAssemblyReference.cache
+C:\Users\HeitorSalatiel\source\repos\TicketMachine\TicketMachine\obj\Debug\TicketMachine.exe
+C:\Users\HeitorSalatiel\source\repos\TicketMachine\TicketMachine\obj\Debug\TicketMachine.pdb
